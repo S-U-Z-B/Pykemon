@@ -1,5 +1,5 @@
 === COMP30780 DATA SCIENCE IN PRACTICE ===
-Project Title: PykÈmon, an insight into the PokÈmon Franchise 
+Project Title: Pyk√©mon, an insight into the Pok√©mon Franchise 
 Python Version: 3.9.5
 
 
@@ -29,7 +29,7 @@ Notebooks are divided into two types, Scrapers and Analysis
 	
 1.2. DATASETS
 All datasets are located in the DATASETS directory.
-Datasets retreived from the scrapers are included as well as datasets taken from online sources and the PokÈAPI.
+Datasets retreived from the scrapers are included as well as datasets taken from online sources and the Pok√©API.
 
 
 
